@@ -1,6 +1,6 @@
 I am a Full Stack Web Developer (Frontend and Backend) graduate offering a strong foundation in Software engineering and programming principles across multiple platforms.
 
-I Code using:
+Technologies used
 <hr/>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
