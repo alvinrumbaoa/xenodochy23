@@ -2,7 +2,7 @@ I am a Full Stack Web Developer (Frontend and Backend) graduate offering a stron
 
 I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
 
-I am happy to collaborate. Let's create something great!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xenodochy23&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Email me at alvinrumbaoa@gmail.com
 
