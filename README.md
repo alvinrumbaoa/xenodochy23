@@ -1,4 +1,6 @@
-I am a Full Stack Web Developer (Frontend and Backend) graduate offering a strong foundation in Software engineering and programming principles across multiple platforms.
+Hello There! I'm Alvin Rumbaoa from Anaheim, California 
+
+I am a Full Stack Web Developer (Frontend and Backend) graduate offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
 
 
 <hr/>
@@ -34,7 +36,7 @@ Technologies used
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xenodochy23&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
