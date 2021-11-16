@@ -4,11 +4,12 @@ I am a Full Stack Web Developer (Frontend and Backend) graduate offering a stron
 
 
 <hr/>
-Follow/Connect with me on: 
+
 <a href="https://www.linkedin.com/in/alvinrumbaoa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://twitter.com/alvin_rumbaoa">![Twitter](https://img.shields.io/badge/<@arumbaoa>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <a href="https://www.facebook.com/xenofy/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="mailto:alvinrumbaoa@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  
 <hr/>
 
   <center><b>Technology Summary<b/></center>
