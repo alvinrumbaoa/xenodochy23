@@ -11,7 +11,7 @@ Follow/Connect with me on:
 <a href="mailto:alvinrumbaoa@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <hr/>
 
-  <center>Technologies</center>
+  <center><b>Technologies<b/></center>
 <hr/>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
