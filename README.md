@@ -1,4 +1,4 @@
-Hello There! I'm Alvin Rumbaoa from Anaheim, California 
+Hello There! I'm Alvin Rumbaoa from Anaheim, California 👋
 
 I am a Full Stack Web Developer (Frontend and Backend) graduate offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
 
