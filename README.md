@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23D4D4D4&center=true&vCenter=true&width=417&lines=Hello+My+Name+is+Alvin+Rumbaoa)](https://git.io/typing-svg)
 
-I am a Full Stack Web Developer (Frontend and Backend) graduate offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
+I am a Full Stack Web Developer 👨‍💻 graduate offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
 
 
 <hr/>
