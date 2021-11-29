@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%239A9A9A&lines=Hello!+My+Name+is+Alvin+Rumbaoa;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23747474&lines=Hello!+My+Name+is+Alvin+Rumbaoa+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 I am a Full Stack Web Developer 👨‍💻 offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I have the ability to quickly learn and master new technologies. I am also successful in working in both teams and self-directed settings.
 
 
