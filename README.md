@@ -3,8 +3,11 @@
 I am a Full Stack Web Developer 👨‍💻 offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I am obssessive on learning and mastering new technologies. I am also successful in working in both teams and self-directed settings.
 
 🔭  I’m currently working on something awesome 😉
+
 🌱  I’m currently learning NextJS and Chakra UI
+
 💬  Ask me about anything related to React/Express/MongoDB/Node/NextJs/ChakraUI
+
 📫  How to reach me: 
 <a href="https://www.linkedin.com/in/alvinrumbaoa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://twitter.com/alvin_rumbaoa">![Twitter](https://img.shields.io/badge/<@arumbaoa>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
