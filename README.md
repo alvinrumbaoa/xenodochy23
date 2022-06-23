@@ -2,8 +2,8 @@
 
 I am a Full Stack Web Developer 👨‍💻 offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I am obssessive on learning and mastering new technologies. I am also successful in working in both teams and self-directed settings.
 
-🔭  I recently joined #100DaysofCode See My Progress https://github.com/xenodochy23/100-days-of-code
-
+🔭  I recently joined #100DaysofCode See My Progress [https://github.com/xenodochy23/100-days-of-code
+](https://github.com/xenodochy23/100-days-of-code/blob/master/log.md)
 🌱  I’m currently learning NextJS and Chakra UI
 
 💬  Ask me about anything related to React/Express/MongoDB/Node/NextJs/ChakraUI
