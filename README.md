@@ -4,6 +4,7 @@ I am a Full Stack Web Developer 👨‍💻 offering a strong foundation in Soft
 
 🔭  I recently joined #100DaysofCode See My Progress [https://github.com/xenodochy23/100-days-of-code
 ](https://github.com/xenodochy23/100-days-of-code/blob/master/log.md)
+
 🌱  I’m currently learning NextJS and Chakra UI
 
 💬  Ask me about anything related to React/Express/MongoDB/Node/NextJs/ChakraUI
