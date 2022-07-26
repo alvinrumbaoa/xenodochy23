@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23747474&lines=Hello!+My+Name+is+Alvin+Rumbaoa+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I am a Full Stack Web Developer 👨‍💻 offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; designing interfaces, and administering systems and networks. I am obssessive on learning and mastering new technologies. I am also successful in working in both teams and self-directed settings.
+I am a Frontend Web Developer 👨‍💻 offering a strong foundation in Software engineering and programming principles across multiple platforms. I have experience in object-oriented programming; developing, testing, and debugging code; and designing  User- interfaces. I am obssessive on learning and mastering new technologies. I am also successful in working in both teams and self-directed settings.
 
 🔭  I recently joined #100DaysofCode See My Progress [https://github.com/xenodochy23/100-days-of-code
 ](https://github.com/xenodochy23/100-days-of-code/blob/master/log.md)
