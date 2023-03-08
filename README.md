@@ -8,3 +8,4 @@ www.alvinrumbaoa.dev
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xenodochy23&theme=maroongold_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
     
+<a href="https://app.daily.dev/alvinrumbaoa"><img src="https://api.daily.dev/devcards/74388704897a4e229715c894663da405.png?r=9ez" width="400" alt="Alvin Flores Rumbaoa's Dev Card"/></a>
